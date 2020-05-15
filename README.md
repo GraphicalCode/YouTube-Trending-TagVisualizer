@@ -9,11 +9,7 @@ Generates a word cloud based on the most popular tags on YouTube trending videos
 
    https://installpython3.com/windows/
 
-2. Install `pip` 
-   
-   https://pip.pypa.io/en/stable/installing/
-
-3. Install the following packages in your command line / terminal
+2. Install the following packages in your command line / terminal
 
    `pip install --upgrade google-api-python-client`
    

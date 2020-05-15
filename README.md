@@ -1,3 +1,7 @@
+# YouTube Trending Tag Visualizer 
+
+Generates a word cloud based on the most popular tags on YouTube trending videos.
+
 ## Setup instructions
 
 ### Python related installations

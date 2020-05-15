@@ -41,5 +41,6 @@ To modify / add / delete regions which you want to search for trending videos, m
 There are two licenses, one that represents the code housed inside the `fetch` directory and one for `generatecloud.py`. 
 
 The former project is licensed under the BSD 2-Clause License - see the `LICENSE` file in `fetch` directory for details.
+Source code is modified from the original repository: https://github.com/mitchelljy/Trending-YouTube-Scraper
 
 The file `generatecloud.py` is licensed under the MIT License - see the `LICENSE_generatecloud` file in this current directory for details.

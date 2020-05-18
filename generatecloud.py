@@ -26,7 +26,7 @@ def main():
                         if line_count != 0:
                             # Debugging line: print(f'\t{row[0]} - {row[cat_pos]} - {row[tag_pos]}.')
                             #unicode(str, errors='ignore')
-                            tags.extend(row[tag_pos].split("|"))
+                            tags.extend([x for x in row[tag_pos].split("|") if x != "[none]"])
                         line_count += 1
 
     text = ",".join(tags)

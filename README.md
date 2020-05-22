@@ -4,6 +4,8 @@ Generates a word cloud based on the most popular tags on YouTube trending videos
 
 YouTube video here: https://youtu.be/VyAZ4Pyq1o8
 
+![cloud](https://user-images.githubusercontent.com/65105330/82687768-5002c480-9c8a-11ea-836f-321b16661cbd.png)
+
 ## Setup instructions
 
 ### Python related installations

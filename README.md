@@ -2,6 +2,8 @@
 
 Generates a word cloud based on the most popular tags on YouTube trending videos.
 
+YouTube video here: https://youtu.be/VyAZ4Pyq1o8
+
 ## Setup instructions
 
 ### Python related installations
